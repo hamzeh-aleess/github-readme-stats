@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>&nbsp;
 </p>
 
-[![hamzeh-aleess](https://github-readme-stats.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/hamzeh-aleess/yazeed)
+[![hamzeh-aleess](https://github-readme-stats.vercel.app/api?username=hamzeh-aleess&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/hamzeh-aleess/hamzeh-aleess)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzeh-aleess&layout=compact)](https://github.com/hamzeh-aleess/github-readme-stats) -->
 
