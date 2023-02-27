@@ -23,10 +23,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" **alt="laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo" **alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" **alt="Rust" width="40" height="40"/>&nbsp;
-  
 </p>
-[![Hamzeh Aleess](https://github-readme-stats.vercel.app/api?username=hamzeh-aleess&show_icons=true&theme=dark&hide_border=false)](https://github.com/hamzeh-aleess/ithub-readme-stats)
 
+[![hamzeh-aleess](https://github-readme-stats.vercel.app/api?username=yazeed&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/hamzeh-aleess/yazeed)
+hamzeh-aleess
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzeh-aleess&layout=compact)](https://github.com/hamzeh-aleess/github-readme-stats) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamzeh-aleess&theme=dark&hide_border=true&mode=weekly&type=png)](https://git.io/streak-stats)
