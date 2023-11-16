@@ -33,6 +33,6 @@
 </p>
 
 [![hamzeh-aleess](https://github-readme-stats.vercel.app/api?username=hamzeh-aleess&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/hamzeh-aleess/hamzeh-aleess)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzeh-aleess&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hamzehaleess&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzeh-aleess&layout=compact)](https://github.com/hamzeh-aleess/hamzeh-aleess)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzehaleess&layout=compact)](https://github.com/hamzeh-aleess/hamzeh-aleess)
